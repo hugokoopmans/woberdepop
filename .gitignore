@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data folder
+/**/data
+
+# pdfs
+.pdf
+
+# txt
+.txt
+
+# txt folder
+/**/txt
+
+# notebook cache
+/**/.ipynb_checkpoints
+
+# pickle objects
+.pkl
+
+# tsv file
+.tsv
+
+# word2vec model 
+.model
